@@ -1,3 +1,4 @@
+![siepicfab](siepicfab.png)
 #  Silicon Electronic Photonic Integrated Circuits
 
 ## The SiEPIC Program
@@ -16,3 +17,8 @@ Please visit our web page to learn more: https://siepic.ca/education/
 
 Please visit our web page to learn more: https://siepic.ca/fabrication/
 
+## SiEPIC GitHub repository highlights:
+
+* [SiEPIC-Tools](https://github.com/SiEPIC/SiEPIC-Tools): A python package that enables electronic-photonic design automation (EPDA) functions on the free open-source layout editor [KLayout](https://www.klayout.de/).
+* [Process Design Kits](https://github.com/SiEPIC/SiEPIC_EBeam_PDK): PDKs can be built to work on the SiEPIC EPDA platform. The SiEPIC EBeam PDK is the reference open-source PDK that can be used to design into an EBeam fabrication process.
+* [PyOptomip](https://github.com/SiEPIC/pyOptomip): Python package to automate electro-optic testing of silicon photonic probe stations. Reference probe station design is included.
